@@ -1,0 +1,15 @@
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/bin/Debug/net6.0/lesson01
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/bin/Debug/net6.0/lesson01.deps.json
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/bin/Debug/net6.0/lesson01.runtimeconfig.json
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/bin/Debug/net6.0/lesson01.dll
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/bin/Debug/net6.0/lesson01.pdb
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/obj/Debug/net6.0/lesson01.csproj.AssemblyReference.cache
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/obj/Debug/net6.0/lesson01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/obj/Debug/net6.0/lesson01.AssemblyInfoInputs.cache
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/obj/Debug/net6.0/lesson01.AssemblyInfo.cs
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/obj/Debug/net6.0/lesson01.csproj.CoreCompileInputs.cache
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/obj/Debug/net6.0/lesson01.dll
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/obj/Debug/net6.0/refint/lesson01.dll
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/obj/Debug/net6.0/lesson01.pdb
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/obj/Debug/net6.0/lesson01.genruntimeconfig.cache
+/Users/alexanderzagaynov/Documents/С#_ 1 ДЗадание/ДЗ_seminar_01/lesson01/obj/Debug/net6.0/ref/lesson01.dll
